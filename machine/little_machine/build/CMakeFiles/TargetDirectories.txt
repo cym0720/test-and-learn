@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/CV_CODE/machine/little_machine/build/CMakeFiles/Demo.dir
+/home/ubuntu/Desktop/CV_CODE/machine/little_machine/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/CV_CODE/machine/little_machine/build/CMakeFiles/rebuild_cache.dir
